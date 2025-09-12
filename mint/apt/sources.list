@@ -1,0 +1,10 @@
+deb http://127.0.0.1:3142/snapshot.ubuntu.com/ubuntu/20250804T190000Z noble main restricted universe multiverse
+deb http://127.0.0.1:3142/snapshot.ubuntu.com/ubuntu/20250804T190000Z noble-security main restricted universe multiverse
+deb http://127.0.0.1:3142/snapshot.ubuntu.com/ubuntu/20250804T190000Z noble-updates main restricted universe multiverse
+#deb http://127.0.0.1:3142/snapshot.ubuntu.com/ubuntu/20250804T190000Z noble-backports main restricted universe multiverse
+
+deb http://packages.linuxmint.com xia main upstream import backport
+
+# not needed on UBUNTU / MINT
+# repository that may contain newer fai packages for bookworm
+#deb http://127.0.0.1:3142/fai-project.org/download bookworm koeln

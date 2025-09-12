@@ -1,0 +1,8 @@
+deb [signed-by=/usr/share/keyrings/debian-archive-keyring.gpg] http://127.0.0.1:3142/snapshot.debian.org/archive/debian/20250906T112439Z trixie main non-free-firmware contrib non-free
+deb-src [signed-by=/usr/share/keyrings/debian-archive-keyring.gpg] http://127.0.0.1:3142/snapshot.debian.org/archive/debian/20250906T112439Z trixie main non-free-firmware contrib non-free
+deb [signed-by=/usr/share/keyrings/debian-archive-keyring.gpg] http://127.0.0.1:3142/snapshot.debian.org/archive/debian/20250906T112439Z trixie-updates main non-free-firmware contrib non-free
+deb-src [signed-by=/usr/share/keyrings/debian-archive-keyring.gpg] http://127.0.0.1:3142/snapshot.debian.org/archive/debian/20250906T112439Z trixie-updates main non-free-firmware contrib non-free
+deb [signed-by=/usr/share/keyrings/debian-archive-keyring.gpg] http://127.0.0.1:3142/snapshot.debian.org/archive/debian-security/20250906T161327Z trixie-security main non-free-firmware contrib non-free
+deb-src [signed-by=/usr/share/keyrings/debian-archive-keyring.gpg] http://127.0.0.1:3142/snapshot.debian.org/archive/debian-security/20250906T161327Z trixie-security main non-free-firmware contrib non-free
+deb [signed-by=/usr/share/keyrings/fai-project-archive-keyring.gpg] http://127.0.0.1:3142/fai-project.org/download trixie koeln
+
