@@ -1,0 +1,8 @@
+deb http://127.0.0.1:8000/snapdeb/debian/20250906T112439Z trixie main non-free-firmware contrib non-free
+deb-src http://127.0.0.1:8000/snapdeb/debian/20250906T112439Z trixie main non-free-firmware contrib non-free
+deb http://127.0.0.1:8000/snapdeb/debian/20250906T112439Z trixie-updates main non-free-firmware contrib non-free
+deb-src http://127.0.0.1:8000/snapdeb/debian/20250906T112439Z trixie-updates main non-free-firmware contrib non-free
+deb http://127.0.0.1:8000/snapdeb/debian-security/20250906T161327Z trixie-security main non-free-firmware contrib non-free
+deb-src http://127.0.0.1:8000/snapdeb/debian-security/20250906T161327Z trixie-security main non-free-firmware contrib non-free
+deb http://127.0.0.1:8000/fai trixie koeln
+
