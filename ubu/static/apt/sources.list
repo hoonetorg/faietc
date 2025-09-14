@@ -1,0 +1,8 @@
+deb http://127.0.0.1:8000/snapubu/ubuntu/20250804T190000Z noble main restricted universe multiverse
+deb http://127.0.0.1:8000/snapubu/ubuntu/20250804T190000Z noble-security main restricted universe multiverse
+deb http://127.0.0.1:8000/snapubu/ubuntu/20250804T190000Z noble-updates main restricted universe multiverse
+#deb http://127.0.0.1:8000/snapubu/ubuntu/20250804T190000Z noble-backports main restricted universe multiverse
+
+# not needed on UBUNTU
+# repository that may contain newer fai packages for bookworm
+#deb http://127.0.0.1:8000/fai bookworm koeln
