@@ -25,7 +25,8 @@ PACKAGES install-norec
 # dracut replaces live-boot and initramfs-tools
 dracut live-boot- initramfs-tools-
 dracut-config-generic
-dracut-network isc-dhcp-client
+dracut-network
+dbus
 curl lftp
 util-linux-extra
 less
@@ -47,7 +48,6 @@ firmware-cavium firmware-myricom firmware-netronome firmware-netxen
 firmware-qlogic
 firmware-misc-nonfree
 
-
 # you should not edit the lines below
 # architecture dependend list of packages that are installed
 
@@ -61,7 +61,7 @@ grub-pc
 grub-efi-amd64-bin
 efibootmgr
 linux-image-amd64
-#linux-image-amd64/bookworm-backports # if you want to use a newer kernel
+#linux-image-amd64/trixie-backports # if you want to use a newer kernel
 
 PACKAGES install-norec ARM64
 grub-efi-arm64
